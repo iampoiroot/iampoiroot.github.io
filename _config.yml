@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : sengkuni
+title               : p01r00t
 description         : >-
-                      Simple man.
+                      \“What a newspaper prints is news – but not always truth!\”
 baseurl             : ""                     # Chsange to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : patisengkuni/sengkuni.me     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : patisengkuni/template
+repository          : p01r00t/p01r00t.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : p01r00t/template
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -22,13 +22,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : sengkuni
-  image             : https://sengkuni.me/assets/sengkuni.png
+  name              : p01r00t
+  image             : https://p01r00t.github.io/assets/p01r00t.png
 #  behance           : your_username
 # dribbble          : your_username
-  email             : patisengkuni@protonmail.com
+#  email             : your_username
 #  facebook          : your_username
-  github            : patisengkuni
+#  github            : yout_username
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
