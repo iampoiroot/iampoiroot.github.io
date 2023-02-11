@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : p01r00t
+title               : poiroot
 description         : >-
                       “What a newspaper prints is news – but not always truth!”
 baseurl             : ""                     # Chsange to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : p01r00t/p01r00t.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : p01r00t/template
+repository          : iampoiroot/iampoiroot.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : iampoiroot/template
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -22,8 +22,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : p01r00t
-  image             : https://p01r00t.github.io/assets/p01r00t.png
+  name              : poiroot
+  image             : https://iampoiroot.github.io/assets/poiroot.png
 #  behance           : your_username
 # dribbble          : your_username
 #  email             : your_username
