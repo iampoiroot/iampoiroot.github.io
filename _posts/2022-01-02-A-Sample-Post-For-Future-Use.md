@@ -6,4 +6,4 @@ color:
 description: A Sample Post For Future Use!
 ---
 
-Coming soon!
+Coming soon!!
